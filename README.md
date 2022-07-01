@@ -2,7 +2,7 @@
 <br>
 Our website mainly focuses on digitalizing health process, Our website gives users an option for sending their health issues through patient's login and doctor's with their seperate doctor's login can see all the queries of patient's and can reply to the same through which the consultation message by doctor will be sent to the respective patient through email.
 <br>
-#Feature Used
+#Feature_Used
 Feature Used:
 <br>
 <ul>
