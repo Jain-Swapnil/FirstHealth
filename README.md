@@ -1,28 +1,25 @@
-# FirstHealth
-<br>
-Our website mainly focuses on digitalizing health process, Our website gives users an option for sending their health issues through patient's login and doctor's with their seperate doctor's login can see all the queries of patient's and can reply to the same through which the consultation message by doctor will be sent to the respective patient through email.
-<br>
-#Feature_Used
-Feature Used:
-<br>
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>Bootstrap</li>
-<li>PHP</li>
-</ul>
-<br>
-<br>
-Link to our Project: http://logiccoders.great-site.net/
-To Build and Run this project we first need to install xampp software which will compile php codes
-<br>
-Then we need to have use phpMyAdmin MySQL as our database which we use to store and extract the data.
-<br>
 
-We have also installed PHPMailer for sending email of description of disease and medicines suggested by doctor online.
-<br>
-To run in browser (suggested:Chrome) just write localhost/path_of_file/file_name.php and it will compile the php code
-<br>
-For both Windows and MacOS the procedure is exactly same for installation and running of our project.
-<br>
-Thank You!
+# FirstHealth
+
+Our website mainly focuses on digitalizing health process, Our website gives users an option for sending their health issues through patient's login and doctor's with their seperate doctor's login can see all the queries of patient's and can reply to the same through which the consultation message by doctor will be sent to the respective patient through email.
+
+This website is currently live [here](http://logiccoders.great-site.net/).
+## Tech Stack
+
+**Client:** HTML, CSS, Bootstrap
+
+**Server:** PHP, MySQL
+
+
+## Installation
+
+In order to run the website you will need an Apache server. You can download XAMPP, PHP development environment [here](https://www.apachefriends.org/)].
+
+Place the cloned chromerce directory inside htdocs directory of XAMPP. You can locate the XAMPP directory by selecting the explorer from the XAMPP control panel.
+
+Start the Apache and MySQL modules from the XAMPP control panel and type localhost/chromerce/index.php in your browser.
+    
+## 🔗 Lets Connect
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-jain-283619207/)
+
+
