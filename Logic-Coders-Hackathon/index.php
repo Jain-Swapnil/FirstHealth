@@ -5,7 +5,7 @@
          <div class="main">
 
             <div class="navbar">
-                <div class="logo">LOGIC-CODERS</div>
+                <div class="logo">HealthFirst</div>
                 <ul>
                     <li><a href="index.php">HOME</a></li>
                     <li><a href=""></a>HOW WE WORK</li>
