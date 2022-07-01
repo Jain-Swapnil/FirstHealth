@@ -17,7 +17,7 @@ In order to run the website you will need an Apache server. You can download XAM
 
 Place the cloned chromerce directory inside htdocs directory of XAMPP. You can locate the XAMPP directory by selecting the explorer from the XAMPP control panel.
 
-Start the Apache and MySQL modules from the XAMPP control panel and type localhost/chromerce/index.php in your browser.
+Start the Apache and MySQL modules from the XAMPP control panel and type localhost/chromerce/index.html in your browser.
     
 ## 🔗 Lets Connect
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-jain-283619207/)

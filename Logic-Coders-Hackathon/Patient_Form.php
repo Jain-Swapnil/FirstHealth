@@ -91,7 +91,7 @@ endif;
 		<u><h1 style="font-type:arial">Descibe Your Symptoms </h1></u>
         
 	</center>
-	<a href="index.php">Click Here to go to Home Page</a><br><br>
+	<a href="index.html">Click Here to go to Home Page</a><br><br>
 		<label for="name"><b>Name</b></label>
 		<input type="text" placeholder="Enter Your Name" id="name" name="name" required><br>
 		

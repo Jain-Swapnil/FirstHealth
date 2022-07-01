@@ -12,7 +12,7 @@
 	$login_session = $_SESSION['username'];
 				   
 	if(!isset($_SESSION['username'])){
-		header("location:index.php");
+		header("location:index.html");
 				   }
 
 ?>
