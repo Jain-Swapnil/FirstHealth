@@ -72,7 +72,7 @@ span{
 <br><br>
 <center>
 <form>
-<button type="submit"><a href="response.php" class="a">Click Here For Replying To Patient's Queries</a></button>
+<button type="submit"><a href="response.html" class="a">Click Here For Replying To Patient's Queries</a></button>
 </form>
     </body>
 </html>
