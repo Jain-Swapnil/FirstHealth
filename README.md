@@ -1,8 +1,17 @@
 # FirstHealth
 <br>
-Our website mainly focuses on digitalizing health process, Our website gives users an option for sending their health issues through patient's login and then doctor's with their seperate doctor's login can see all the queries of patient's and the doctor's can reply to the patient through our portal and the messgae will be sent to the respective patient by this online communication is established, with quick replies and fully secured way. This website is also highly user friendly in terms of UI/UX and backend services.
+Our website mainly focuses on digitalizing health process, Our website gives users an option for sending their health issues through patient's login and doctor's with their seperate doctor's login can see all the queries of patient's and can reply to the same through which the consultation message by doctor will be sent to the respective patient through email.
 <br><br>
-Link to our Project: http://logiccoders.great-site.net/
+//Link to our Project: http://logiccoders.great-site.net/
+<br>
+Feature Used:
+<br>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap</li>
+<li>PHP</li>
+</ul>
 <br>
 To Build and Run this project we first need to install xampp software which will compile php codes
 <br>
